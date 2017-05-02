@@ -11,6 +11,7 @@
 		<File cruft="true">/Users/*/Library/Application Support/MacKeeper Helper</File>
 		<File cruft="true">/Users/*/Library/Caches/com.mackeeper.MacKeeper</File>
 		<Process>MacKeeper</Process>
+		<Process>MacKeeper Helper</Process>
 	</Adware>
 </AdwareDefinition>
 
