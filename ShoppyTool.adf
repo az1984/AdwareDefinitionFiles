@@ -1,0 +1,15 @@
+
+<AdwareDefinition>
+	<Version>1.0</Version>
+	<SavingThrowVersion>1.1.0</SavingThrowVersion>
+	<DefinitionAuthor>Andew Zimmer</DefinitionAuthor>
+	<DefinitionSource>University of Nebraska</DefinitionSource>
+	<Adware>
+		<AdwareName>ShoppyTool</AdwareName>
+		<File>/Users/*/Library/LaunchAgents/com.ShoppyTool.agent.plist</File>
+		<File>/Applications/ShoppyTool/</File>
+    <File>/Applications/ShoppyTool/status</File>
+    <File>/Applications/ShoppyTool/ShoppyTool</File>
+		<Process>ShoppyTool</Process>
+	</Adware>
+</AdwareDefinition>
