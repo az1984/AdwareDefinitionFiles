@@ -1,12 +1,19 @@
 <AdwareDefinition>
-	<Version>90</Version>
+	<Version>1.0</Version>
 	<SavingThrowVersion>1.1.0</SavingThrowVersion>
-	<DefinitionAuthor>Owen Pragel</DefinitionAuthor>
-	<DefinitionSource>http://www.adwaremedic.com/signatures.xml</DefinitionSource>
+	<DefinitionAuthor>Andew Zimmer</DefinitionAuthor>
+	<DefinitionSource>University of Nebraska</DefinitionSource>
 	<Adware>
-		<AdwareName>PUP.Advanced Mac Cleaner</AdwareName>
-		<File>/Applications/Advanced Mac Cleaner.app</File>
-		<File>/Users/*/Library/LaunchAgents/com.SurfBuyer.agent</File>
-		<File>/Users/*/Library/LaunchAgents/com.Software-Updater.agent</File>
+		<AdwareName>SurfBuyer</AdwareName>
+		<File>/Users/*/Library/LaunchAgents/com.SurfBuyer.agent.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.Software-Updater.agent.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.SoftwareUpdater.agent.plist</File>
+		<File>/Applications/SurfBuyer</File>
+		<File>/Applications/MediaDownloader</File>
+		<File>/Applications/Software-Updater</File>
+		<File>/Applications/SoftwareUpdater</File>
+		<Process>SurfBuyer</Process>
+		<Process>Software-Updater</Process>
+		<Process>SoftwareUpdater</Process>
 	</Adware>
 </AdwareDefinition>
