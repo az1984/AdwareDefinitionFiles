@@ -7,6 +7,8 @@
 	<Adware>
 		<AdwareName>ShoppyTool</AdwareName>
 		<File>/Users/*/Library/LaunchAgents/com.ShoppyTool.agent.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.Software-Updater.agent.plist</File>
+		<File>/Users/*/Library/LaunchAgents/com.SoftwareUpdater.agent.plist</File>
 		<File>/Applications/ShoppyTool/</File>
     		<File>/Applications/ShoppyTool/status</File>
     		<File>/Applications/ShoppyTool/ShoppyTool</File>
